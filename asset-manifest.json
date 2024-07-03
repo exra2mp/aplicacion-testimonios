@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aplicacion-react-tareas/static/css/main.b7fe768a.css",
+    "main.js": "/aplicacion-react-tareas/static/js/main.c7af34b4.js",
+    "static/media/Emma3.png": "/aplicacion-react-tareas/static/media/Emma3.b9fccbd3a571e67eaf37.png",
+    "static/media/Sarah2.png": "/aplicacion-react-tareas/static/media/Sarah2.2c504d1ebaf1961e4a40.png",
+    "static/media/Shawn1.png": "/aplicacion-react-tareas/static/media/Shawn1.7aa999d715ae87e76594.png",
+    "index.html": "/aplicacion-react-tareas/index.html",
+    "main.b7fe768a.css.map": "/aplicacion-react-tareas/static/css/main.b7fe768a.css.map",
+    "main.c7af34b4.js.map": "/aplicacion-react-tareas/static/js/main.c7af34b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7fe768a.css",
+    "static/js/main.c7af34b4.js"
+  ]
+}
